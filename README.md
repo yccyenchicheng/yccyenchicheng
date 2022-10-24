@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yccyenchicheng, a CS PhD student at UIUC.
-- 👀 I’m interested in generative models.
+👋 Hi, I’m @yccyenchicheng, a CS PhD student at UIUC.
+👀 I’m interested in generative models.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
